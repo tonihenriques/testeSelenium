@@ -1,0 +1,8 @@
+{
+  "Selenium": {
+    "CaminhoDriverChrome": "C:\\Users\\Antonio\\Documents\\ChromeDriver103\\",
+    //"CaminhoDriverChrome": "C:\\Users\\Antonio\\Documents\\CursoC#\\MicroserviceSafra\\TestesUnit",
+    "UrlCompraAcoes": "http://localhost:5055/Home/StockIndex",
+    "Timeout": 5
+  }
+}
